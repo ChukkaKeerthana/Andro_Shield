@@ -3,7 +3,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="![Shield](https://user-images.githubusercontent.com/88284126/213932158-f5c7a0ae-1994-4c66-9d5b-345d934c8ed1.jpg)" alt="Logo" width="80" height="80">
+    <img src="![Shield](https://user-images.githubusercontent.com/113005012/213938180-ff1509d1-107b-4ec8-9aef-3a940e95962d.jpeg)" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Andro-Shield</h3>
@@ -53,9 +53,9 @@ There are several types of malwares like:
 
 This project helps the users as a defense system that works to detect malware samples before they have a chance to infect a vivtim's mobile.
 
-Flask API:  https://github.com/vishnu0369/MalwareAPK
+Flask API:  https://github.com/ChukkaKeerthana/MalwareAPK
 
-Keras Model: https://github.com/vishnu0369/DL-model-for-Malicious-APK
+Keras Model: https://github.com/ChukkaKeerthana/DL-model-for-Malicious-APK
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -82,14 +82,14 @@ This section lists the major frameworks/libraries used to bootstrap this project
 
 _Below are the instructions on how to run the app._
 
-1. Clone the mentioned repo which consists of Flask API. (https://github.com/vishnu0369/MalwareAPK)
+1. Clone the mentioned repo which consists of Flask API. (https://github.com/ChukkaKeerthana/MalwareAPK)
    ```sh
-   git clone https://github.com/vishnu0369/MalwareAPK
+   git clone https://github.com/ChukkaKeerthana/MalwareAPK
    ```
 2. Host the Flask API on heroku or any other cloud service
 3. Clone the current repository and then do the changes accordingly as mentioned below
    ```sh
-   git clone https://github.com/vishnu0369/AndroShield
+   git clone https://github.com/ChukkaKeerthana/Andro_Shield
    ```
 4. In the   Malicious_android_app\lib\start_screen.dart file   , replace your hosted FLASK API url.
    ```sh
@@ -116,9 +116,9 @@ Always make sure to remove unnecessary dependencies.
 
 ## Contact
 
-Naveen Varma - [@LinkedIn](https://www.linkedin.com/in/vishnu-vardhan-reddy-yelty-a92a86222/) - yvvr03@gmail.com
+Ch.Keerthana - chukkakeerthana2019@gmail.com
 
-Project Link: [https://github.com/vishnu0369/AndroShield](https://github.com/vishnu0369/AndroShield)
+Project Link: [https://github.com/ChukkaKeerthana/Andro_Shield](https://github.com/ChukkaKeerthana/Andro_Shield)
 
 
 
