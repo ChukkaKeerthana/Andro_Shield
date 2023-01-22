@@ -105,8 +105,8 @@ _Below are the instructions on how to run the app._
 
 
 - [ ] The Keras Model we are using now, does binary classification only, you can also work on multi-label classification that predicts different malware labels.
-- [ ] We are currently using the permissions dataset, we can also predict the malware using network traffic data of APK file, please refer a href="#acknowledgments">Acknowledgement Section </a> to know more about this.
-- [ ] Try adding more front-end features like switching between light and dark themes, About Us and Contact Us pages.
+- [ ] We are currently using the permissions dataset, we can also predict the malware using network traffic data of APK file, please refer <a href="#acknowledgments">Acknowledgement Section </a> to know more about this.
+- [ ] Try adding more front-end features like About Us and Contact Us pages.
 - [ ] Multi-language Support
 
 Always make sure to remove unnecessary dependencies.
@@ -116,7 +116,7 @@ Always make sure to remove unnecessary dependencies.
 
 ## Contact
 
-Ch.Keerthana - chukkakeerthana2019@gmail.com
+Ch Keerthana - chukkakeerthana2019@gmail.com
 
 Project Link: [https://github.com/ChukkaKeerthana/Andro_Shield](https://github.com/ChukkaKeerthana/Andro_Shield)
 
